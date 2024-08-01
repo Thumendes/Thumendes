@@ -1,7 +1,7 @@
 # Hello 👋
 
-[![Gmail Badge](https://img.shields.io/badge/-arthurmendespereira505@gmail-0070f3?style=flat&logo=Gmail&logoColor=white&link=mailto:thumendess@gmail.com)](mailto:thumendess@gmail.com)
-[![Site Badge](https://img.shields.io/badge/-arthurmendespereira.com.br-0070f3?style=flat&logoColor=white&link=thumendes.com.br)](thumendes.com.br)
+[![Gmail Badge](https://img.shields.io/badge/-thumendess@gmail-0070f3?style=flat&logo=Gmail&logoColor=white&link=mailto:thumendess@gmail.com)](mailto:thumendess@gmail.com)
+[![Site Badge](https://img.shields.io/badge/-thumendes.com.br-0070f3?style=flat&logoColor=white&link=thumendes.com.br)](thumendes.com.br)
 
 My name is __Arthur Mendes__ 😃
 
