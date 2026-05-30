@@ -2,7 +2,7 @@
 
 [![Gmail](https://img.shields.io/badge/email-thumendess%40gmail.com-0070f3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thumendess@gmail.com)
 [![Portfolio](https://img.shields.io/badge/portfolio-thumendes.com.br-0070f3?style=for-the-badge&logo=globe&logoColor=white)](https://thumendes.com.br)
-[![LinkedIn](https://img.shields.io/badge/linkedin-arthur--mendes-0070f3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thumendes/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-thumendes-0070f3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thumendes/)
 [![GitHub](https://img.shields.io/badge/github-thumendes-0070f3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thumendes)
 
 Desenvolvedor **Full-Stack Sênior** com 4+ anos de experiência construindo sistemas complexos em produção. Especializado no ecossistema TypeScript/Node — monorepos, APIs type-safe, workers assíncronos e integrações com LLMs.
